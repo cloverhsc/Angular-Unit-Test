@@ -8,4 +8,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Chapter 2
 
-* Testing the Calculator service.
+* [Testing the Calculator service](https://github.com/cloverhsc/Angular-Unit-Test/tree/chapter-2).
