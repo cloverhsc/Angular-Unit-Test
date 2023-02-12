@@ -21,4 +21,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Chapter 5
 
-* Using beforeEach() to setup the test Calculator environment.
+* [Using beforeEach() to setup the test Calculator environment](https://github.com/cloverhsc/Angular-Unit-Test/tree/chapter-5).
