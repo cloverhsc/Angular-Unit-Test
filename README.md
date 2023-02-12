@@ -29,4 +29,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Chapter 7
 
-* Write Test Case for Log Service.
+* [Write Test Case for Log Service.](https://github.com/cloverhsc/Angular-Unit-Test/tree/chapter-7)
