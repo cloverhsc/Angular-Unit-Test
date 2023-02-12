@@ -12,4 +12,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Chapter 3
 
-* Testing the Calculator with injected service.
+* [Testing the Calculator with injected service](https://github.com/cloverhsc/Angular-Unit-Test/tree/chapter-3).
