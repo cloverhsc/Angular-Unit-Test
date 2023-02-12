@@ -25,4 +25,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Chapter 6
 
-* Write Test Case for the Angular Pipe using Isolated Unit Tests
+* [Write Test Case for the Angular Pipe using Isolated Unit Tests](https://github.com/cloverhsc/Angular-Unit-Test/tree/chapter-6)
