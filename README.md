@@ -9,3 +9,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Chapter 2
 
 * [Testing the Calculator service](https://github.com/cloverhsc/Angular-Unit-Test/tree/chapter-2).
+
+## Chapter 3
+
+* Testing the Calculator with injected service.
