@@ -30,3 +30,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Chapter 7
 
 * [Write Test Case for Log Service.](https://github.com/cloverhsc/Angular-Unit-Test/tree/chapter-7)
+
+## Chapter 8
+
+* Create Posts Component and Post service for getting posts data.
