@@ -17,4 +17,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Chapter 4
 
 * Testing the Calculator with injected service.
-  * Use SpyOn to mock injected service.
+  * [Use Jasmine Spy Object to mock injected service](https://github.com/cloverhsc/Angular-Unit-Test/tree/chapter-4).
