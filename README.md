@@ -34,3 +34,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Chapter 8
 
 * [Create Posts Component and Post service for getting posts data](https://github.com/cloverhsc/Angular-Unit-Test/tree/chapter-8).
+
+## Chapter 9
+
+* [Write delete unit testing case for Post method in the Posts Component]()
