@@ -40,4 +40,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 * [Write delete unit testing case for Post method in the Posts Component](https://github.com/cloverhsc/Angular-Unit-Test/tree/chapter-9)
 
 ## Chapter 10
+
 * [Write unit testing case for Event Emitter in the Posts Component](https://github.com/cloverhsc/Angular-Unit-Test/tree/chapter-10)
+
+## Chapter 11
+
+* Resolving dependencies for a component using TestBed and its inject method
