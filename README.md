@@ -45,4 +45,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Chapter 11
 
-* Resolving dependencies for a component using TestBed and its inject method
+* [Resolving dependencies for a component using TestBed and its inject method](https://github.com/cloverhsc/Angular-Unit-Test/tree/chapter-11)
