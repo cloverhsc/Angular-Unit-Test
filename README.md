@@ -53,4 +53,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Chapter 13
 
-* Practical implementation to parse Component Template using Angular TestBed (ATB) native Element
+* [Practical implementation to parse Component Template using Angular TestBed (ATB) native Element](https://github.com/cloverhsc/Angular-Unit-Test/tree/chapter-13)
