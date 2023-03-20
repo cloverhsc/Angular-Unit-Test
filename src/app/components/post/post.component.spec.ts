@@ -1,5 +1,6 @@
 import { NO_ERRORS_SCHEMA } from '@angular/core';
 import { ComponentFixture, TestBed } from '@angular/core/testing';
+import { By } from '@angular/platform-browser';
 import { first } from 'rxjs';
 import { Post } from '../posts/models/Post';
 import { PostComponent } from './post.component';
@@ -28,6 +29,15 @@ describe('Post Component', () => {
     fixture.detectChanges();
     const postElement: HTMLElement = fixture.nativeElement;
     const anchorElement = postElement.querySelector('a');
+    expect(anchorElement?.textContent).toContain(post.title);
+  })
+
+  it('should render the post title in the anchor element using debug element', () => {
+    const post: Post = { id: 1, title: 'Test Title', body: 'Test Body' };
+    component.post = post;
+    fixture.detectChanges();
+    const postDebugElement = fixture.debugElement;
+    const anchorElement = postDebugElement.query(By.css('a')).nativeElement;
     expect(anchorElement?.textContent).toContain(post.title);
   })
 
