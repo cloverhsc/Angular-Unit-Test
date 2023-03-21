@@ -61,4 +61,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Chapter 15
 
-* Resolve the service dependencies for the component using Test Bed
+* [Resolve the service dependencies for the component using Test Bed](https://github.com/cloverhsc/Angular-Unit-Test/tree/chapter-15)
